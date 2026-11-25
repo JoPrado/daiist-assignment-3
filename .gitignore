@@ -5,6 +5,9 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 
+# Readable copies of the labels for writing the test set (export_readable.py)
+readable/
+
 # Your index belongs in index/, committed. Your evaluation results belong in eval/, committed.
 
 # Never commit your API key
